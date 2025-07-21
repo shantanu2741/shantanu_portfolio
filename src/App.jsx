@@ -6,4 +6,17 @@ import { motion } from "framer-motion";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 
-// Assume portfolio component continues here...
+const Portfolio = () => {
+  return (
+    <div>
+      <h1>Portfolio</h1>
+      <Card>
+        <CardContent>
+          <p>This is a card component</p>
+        </CardContent>
+      </Card>
+    </div>
+  );
+};
+
+export default Portfolio;

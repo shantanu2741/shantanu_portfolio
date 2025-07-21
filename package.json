@@ -7,7 +7,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://shantanu-khokrale.github.io/shantanu-portfolio",
+  "homepage": "https://shantanu2741.github.io/shantanu_portfolio",
   "dependencies": {
     "framer-motion": "^10.12.16",
     "lucide-react": "^0.276.0",
